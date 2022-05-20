@@ -1,1 +1,5 @@
 target/
+.scannerwork/
+.settings/
+.classpath
+.project
