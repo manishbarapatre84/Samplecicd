@@ -9,7 +9,7 @@ phase:
    - export LC_ALL="en_US.utf8"
   build:
    commands:
-    - echo Build started on `date`
+    - echo Build started on `date` 
     - mvn install
   post_build:
    command:
