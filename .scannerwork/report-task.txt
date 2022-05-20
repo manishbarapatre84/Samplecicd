@@ -1,0 +1,6 @@
+projectKey=SampleRestApplication
+serverUrl=http://localhost:9000
+serverVersion=9.0.0.45539
+dashboardUrl=http://localhost:9000/dashboard?id=SampleRestApplication
+ceTaskId=AYDbr-znjZT4f0QcmcaD
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYDbr-znjZT4f0QcmcaD
