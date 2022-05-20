@@ -5,7 +5,8 @@ phase:
   runtime-versions:
    java: corretto8
   pre_build:
-   -echo Nothing to do in pre_build phase...
+   - echo Nothing to do in pre_build phase...
+   - export LC_ALL="en_US.utf8"
   build:
    commands:
     - echo Build started on `date`
